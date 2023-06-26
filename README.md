@@ -29,7 +29,11 @@
 
 > Here are the contents i have learned about the c++ programming language.
 
-## ⬇️ How to download and try yourself
+## ⬇️ Getting started
+
+1. Clone the repository
+2. Compile the source files
+3. Run it
 
 ```bash
 git clone https://github.com/kauefraga/learning-cpp.git
@@ -44,13 +48,20 @@ I learned from those resources: [C++ full course by Bro Code](https://youtu.be/-
 
 - [Primitive types](https://www.learncpp.com/cpp-tutorial/introduction-to-fundamental-data-types)
 - [Variables](https://www.learncpp.com/cpp-tutorial/variable-assignment-and-initialization)
+- [Constants](https://www.learncpp.com/cpp-tutorial/const-variables-and-symbolic-constants)
+- [Typedef](https://www.learncpp.com/cpp-tutorial/typedefs-and-type-aliases)
+- [Type casting](https://www.learncpp.com/cpp-tutorial/introduction-to-type-conversion-and-static_cast)
+- [Namespaces](https://www.learncpp.com/cpp-tutorial/naming-collisions-and-an-introduction-to-namespaces)
+- [Operators](https://www.learncpp.com/cpp-tutorial/introduction-to-literals-and-operators)
+<!-- - [Installing packages]()
+- [How to write a library and leave it ready to import]() -->
 
 See the source code at [`src`](src/).
 
 ## 🛠 Technologies
 
-- [C++ environment for Windows](https://www.mingw-w64.org)
-- [C++](https://www.learncpp.com)
+- [C++ environment for Windows](https://www.mingw-w64.org) - Created to support the GCC compiler on Windows systems.
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B) - A multi-paradigm and general-purpose programming language that performs well.
 
 ## 📝 License
 
