@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 #include "./namespaces.cpp"
 #include "./constants.cpp"
 
@@ -25,6 +26,12 @@ int main() {
 
   std::cout << "Store these areas will consume " << sizeof(core_area) + sizeof(area) << " bytes of memory." << '\n';
   std::cout << "-------------------------------------" << '\n';
+
+  std::string students[] = { "1", "2", "3", "4", "5" };
+
+  for (std::string student : students) {
+    std::cout << student << '\n';
+  }
 
   return 0;
 }
