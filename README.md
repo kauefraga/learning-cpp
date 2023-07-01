@@ -53,8 +53,9 @@ I learned from those resources: [C++ full course by Bro Code](https://youtu.be/-
 - [Type casting](https://www.learncpp.com/cpp-tutorial/introduction-to-type-conversion-and-static_cast)
 - [Namespaces](https://www.learncpp.com/cpp-tutorial/naming-collisions-and-an-introduction-to-namespaces)
 - [Operators](https://www.learncpp.com/cpp-tutorial/introduction-to-literals-and-operators)
-<!-- - [Installing packages]()
-- [How to write a library and leave it ready to import]() -->
+- [If statements](https://www.learncpp.com/cpp-tutorial/introduction-to-if-statements)
+  - [Ternary operator](https://www.programiz.com/cpp-programming/ternary-operator)
+- [String](https://www.learncpp.com/cpp-tutorial/introduction-to-stdstring)
 
 See the source code at [`src`](src/).
 
